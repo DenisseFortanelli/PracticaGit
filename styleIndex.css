@@ -145,19 +145,6 @@ html{
         justify-content: space-between;
     }
     
-    .icono{
-    
-        flex-basis: calc(33.33% - 1rem);
-        text-align: center;
-    
-    }
-    
-       
-    .icono h3{
-    
-        text-transform: uppercase;
-    }
-    
     
     /* ANUNCIOS*/
     
