@@ -1,0 +1,148 @@
+html{
+
+    font-size: 62.5%;  
+}
+
+body
+{
+    
+    font-size: 1.6rem;
+    line-height:2;
+}
+
+
+/** GLOBALES**/
+
+img{
+    max-width: 100%;
+}
+
+h1{
+
+font-size: 3.8rem;
+}
+
+h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 3.4rem;
+}
+
+
+h3{
+   
+    font-size: 3rem;
+}
+
+.tamanoFuente
+{
+    font-weight: 300;
+    
+}
+
+.centrar-texto{
+
+    
+    text-align: center;
+}
+.centrar-texto h2{
+    font-family: 'Lato', sans-serif;
+}
+
+.contenedor
+{
+
+ max-width: 120rem;  
+ margin: 0 auto;
+ 
+}
+
+.contenido-menu
+{
+    height: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+   
+
+
+}
+
+.barra
+{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-top: 3rem;
+
+}
+
+.navegacion a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.8rem;   
+    margin-right: 2rem; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navegacion a:hover{
+    color: #71b100;
+}
+
+.navegacion a:last-of-type{
+    margin: 0;
+}
+
+
+  .menupagina{
+      background-color: rgb(39, 34, 34);
+      width: 100%;
+      height: 150px;
+      display: inline-block;   
+  }
+
+  .seccionuno
+  {
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+  }
+  .seccionuno p, .seccionuno h3{
+    margin-top: 2rem;
+    text-align: left;
+    
+  }
+  
+  .organizador-uno
+{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconouno{
+
+    flex-basis: calc(50% - 1rem);
+}
+
+  .secciondos
+  {
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+  }
+  .encabezado h3{
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .iconos-nosotros
+{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.icono{
+
+    flex-basis: calc(33.33% - 1rem);
+    text-align: center;
+
+}
+
