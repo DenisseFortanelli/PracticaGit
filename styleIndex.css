@@ -45,24 +45,6 @@ html{
         font-weight: 300;
     }
     
-    .centrar-texto{
-    
-        
-        text-align: center;
-    }
-    
-    .d-block{
-        display: block!important;
-    }
-    
-    
-    .contenedor
-    {
-    
-        max-width: 120rem;  /* igual  a 1200 px*/
-     margin: 0 auto;
-     
-    }
     
     /* BOTONES*/
     
